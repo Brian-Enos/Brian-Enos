@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Kotlin**
 
-- 📝 I regularly write articles on [https://brianenosotieno.hashnode.dev](brianenosotieno.hashnode.dev)
+- 📝 I regularly write articles on [HashNode](brianenosotieno.hashnode.dev)
 
 - 💬 Ask me about **Python, Java, JavaScript, HTML, CSS or literally anything you are free to talk about**
 
@@ -28,8 +28,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brian_tatling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brian_tatling" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brian_enos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian_enos" height="30" width="40" /></a>
-<a href="https://hashnode.com/brianenosotieno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="brianenosotieno" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/bria_enos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/bria_enos" height="30" width="40" /></a>
+<a href="https://hashnode.com/brianenosotieno.hashnode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="brianenosotieno.hashnode.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
