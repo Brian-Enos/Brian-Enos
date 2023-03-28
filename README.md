@@ -25,11 +25,12 @@
 
 - 📫 How to reach me **brianenos9199@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brian_tatling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brian_tatling" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//in/bria_enos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/bria_enos" height="30" width="40" /></a>
-<a href="https://hashnode.com/brianenos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="brianenos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bria_enos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/bria_enos/" height="30" width="40" /></a>
+<a href="https://hashnode.com/@brianenos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@brianenos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
