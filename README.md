@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **Kotlin**
 
-- 📝 I regularly write articles on [HashNode](brianenosotieno.hashnode.dev)
+- 📝 I regularly write articles on [Hash Node](https://brianenosotieno.hashnode.dev)
 
 - 💬 Ask me about **Python, Java, JavaScript, HTML, CSS or literally anything you are free to talk about**
 
