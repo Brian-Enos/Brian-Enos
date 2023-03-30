@@ -1,6 +1,9 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]()
 <h1 align="center">Hi 👋, I'm Brian Enos Otieno</h1>
-<h3 align="center">A passionate Full-Stack Software Developer, Electrical and Telecommunication Engineer, Cybersecurity Analyst, Technical writer,   
+
+<img align="center" alt="Coding" width="400" src= "https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+
+<h3 align="left">A passionate Full-Stack Software Engineer, Electrical and Telecommunication Engineer, Cybersecurity Analyst, Technical writer,   
   AutoCAD and SolidWorks Technician from Kenya.
  
  
@@ -8,7 +11,6 @@
   I am eager to learn and contribute to team success through prolific hard work, accountable management skills, well-versed knowledge and hands on experience of product development process. I believe growth lies in knowledge and  technology is my passion.
 </h3>
 
-<img align="center" alt="Coding" width="400" src= "https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-enos" alt="brian-enos" /></a> </p>
 
