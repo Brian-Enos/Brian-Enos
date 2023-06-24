@@ -3,7 +3,7 @@
 
 
 
-<h3 align="left">A passionate Full-Stack Software Engineer, Electrical and Telecommunication Engineer, Cybersecurity Analyst, Technical writer,   
+<h3 align="left">A front-end Software Engineer, Electrical and Telecommunication Engineer,  Technical writer,   
   AutoCAD and SolidWorks Technician from Kenya.
  
  
